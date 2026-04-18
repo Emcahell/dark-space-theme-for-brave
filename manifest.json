@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "2.0.0",
+  "name": "Dark Space Theme",
+  "description": "Dark space theme with starfield background",
+  "theme": {
+    "images": {
+      "theme_frame": "img/background.png",
+      "theme_ntp_background": "img/background.png"
+    },
+    "colors": {
+      "frame": [10, 10, 15],
+      "toolbar": [20, 20, 25],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [180, 180, 180],
+      "bookmark_text": [255, 255, 255],
+      "ntp_text": [255, 255, 255],
+      "button_background": [50, 50, 60]
+    }
+  }
+}
