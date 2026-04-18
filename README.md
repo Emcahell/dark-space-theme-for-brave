@@ -2,6 +2,8 @@
 
 Dark space theme with starfield background for Brave and Chrome browsers.
 
+![Theme Preview](img/preview-theme.png)
+
 ## Features
 
 - Starfield background image
